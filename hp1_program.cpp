@@ -347,8 +347,6 @@ int Program::GetValidInput(int min, int max)
 		// Get the user's input again, and store it in the same choice variable
 		cout << "Please enter the value: ";
 		cin >> choice;
-
-
 	}
 	// Return the choice variable after the while loop
 
